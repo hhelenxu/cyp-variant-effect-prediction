@@ -5,7 +5,6 @@ This repository accompanies the paper **"Homology-Based Variant-Effect Predictor
 ## Contents
 
 ```
-psb_2027/
 ├── README.md
 ├── LICENSE
 ├── requirements.txt      # conda environment spec
@@ -48,7 +47,7 @@ conda activate my_env
 
 2. Open `cyp2c9_activity_prediction.ipynb` or `alphamissense_ambiguous.ipynb` and run cells top to bottom. Each notebook begins with a "Required input files" cell documenting exactly which files it reads from `../data/`.
 
-## Citation
+<!-- ## Citation
 
 If you use this code or data, please cite:
 
@@ -70,7 +69,7 @@ If you use this code or data, please cite:
 ³ Department of Biomedical Data Science, Stanford University, Stanford, CA, USA
 ⁴ Department of Genetics, Stanford University, Stanford, CA, USA
 
-Correspondence: russ.altman@stanford.edu
+Correspondence: russ.altman@stanford.edu -->
 
 ## License
 
