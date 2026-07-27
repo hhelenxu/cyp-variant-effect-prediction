@@ -1,0 +1,78 @@
+Allele,Mutation,ref,pos,alt,rsID,Function,Evidence Level
+CYP2C9*2,R144C,R,144,C,rs1799853,Decreased Function,Definitive
+CYP2C9*3,I359L,I,359,L,rs1057910,No Function,Definitive
+CYP2C9*4,I359T,I,359,T,rs56165452,Decreased Function,Limited
+CYP2C9*5,D360E,D,360,E,rs28371686,Decreased Function,Definitive
+CYP2C9*7,L19I,L,19,I,rs67807361,Uncertain Function,Moderate
+CYP2C9*8,R150H,R,150,H,rs7900194,Decreased Function,Definitive
+CYP2C9*9,H251R,H,251,R,rs2256871,Normal Function,Definitive
+CYP2C9*10,E272G,E,272,G,rs9332130,Uncertain Function,Moderate
+CYP2C9*11,R335W,R,335,W,rs28371685,Decreased Function,Definitive
+CYP2C9*12,P489S,P,489,S,rs9332239,Decreased Function,Moderate
+CYP2C9*13,L90P,L,90,P,rs72558187,No Function,Limited
+CYP2C9*14,R125H,R,125,H,rs72558189,Decreased Function,Definitive
+CYP2C9*16,T299A,T,299,A,rs72558192,Decreased Function,Moderate
+CYP2C9*17,P382S,P,382,S,rs2492650213,Uncertain Function,Moderate
+CYP2C9*19,Q454H,Q,454,H,rs769942899,Uncertain Function,Moderate
+CYP2C9*20,G70R,G,70,R,rs371055887,Uncertain Function,Moderate
+CYP2C9*21,P30L,P,30,L,rs142240658,Uncertain Function,Limited
+CYP2C9*22,N41D,N,41,D,rs2031308986,Uncertain Function,Limited
+CYP2C9*23,V76M,V,76,M,rs1216169538,Decreased Function,Limited
+CYP2C9*24,E354K,E,354,K,rs749060448,No Function,Limited
+CYP2C9*26,T130R,T,130,R,rs200965026,Decreased Function,Definitive
+CYP2C9*27,R150L,R,150,L,rs7900194,Uncertain Function,Definitive
+CYP2C9*28,Q214L,Q,214,L,rs2031531005,Decreased Function,Definitive
+CYP2C9*29,P279T,P,279,T,rs182132442,Decreased Function,Definitive
+CYP2C9*30,A477T,A,477,T,rs781583846,Decreased Function,Definitive
+CYP2C9*31,I327T,I,327,T,rs57505750,Decreased Function,Limited
+CYP2C9*32,V490F,V,490,F,rs868182778,Uncertain Function,Limited
+CYP2C9*33,R132Q,R,132,Q,rs200183364,No Function,Limited
+CYP2C9*34,R335Q,R,335,Q,rs367826293,Uncertain Function,Limited
+CYP2C9*37,D49G,D,49,G,rs564813580,Decreased Function,Limited
+CYP2C9*38,G96A,G,96,A,rs761033063,Decreased Function,Limited
+CYP2C9*39,G98V,G,98,V,rs762239445,No Function,Limited
+CYP2C9*40,F110S,F,110,S,—,Uncertain Function,Limited
+CYP2C9*41,K119R,K,119,R,rs774607211,Uncertain Function,Limited
+CYP2C9*42,R124Q,R,124,Q,rs12414460,No Function,Limited
+CYP2C9*43,R124W,R,124,W,rs767576260,No Function,Limited
+CYP2C9*44,T130M,T,130,M,rs200965026,Decreased Function,Limited
+CYP2C9*45,R132W,R,132,W,rs199523631,No Function,Limited
+CYP2C9*46,A149T,A,149,T,rs754487195,Decreased Function,Limited
+CYP2C9*47,P163L,P,163,L,rs774550549,Uncertain Function,Limited
+CYP2C9*48,I207T,I,207,T,rs1326630788,Uncertain Function,Limited
+CYP2C9*49,I222V,I,222,V,—,Uncertain Function,Limited
+CYP2C9*50,P227S,P,227,S,rs2492591692,Decreased Function,Limited
+CYP2C9*51,I284V,I,284,V,rs2492634549,Uncertain Function,Limited
+CYP2C9*52,T299R,T,299,R,rs988617574,No Function,Limited
+CYP2C9*53,P317S,P,317,S,rs1237225311,Uncertain Function,Limited
+CYP2C9*54,S343R,S,343,R,rs750820937,Uncertain Function,Limited
+CYP2C9*55,L361I,L,361,I,rs1250577724,Decreased Function,Limited
+CYP2C9*56,I387V,I,387,V,rs764211126,Uncertain Function,Limited
+CYP2C9*57,N204H,N,204,H,—,Unknown Function,Limited
+CYP2C9*58,P337T,P,337,T,rs1274535931,Uncertain Function,Limited
+CYP2C9*59,I434F,I,434,F,rs2492662738,Uncertain Function,Limited
+CYP2C9*60,L467P,L,467,P,rs767284820,Uncertain Function,Limited
+CYP2C9*62,R125C,R,125,C,rs375805362,Function Not Assigned,Definitive
+CYP2C9*63,R144H,R,144,H,rs141489852,Function Not Assigned,Moderate
+CYP2C9*64,S280C,S,280,C,—,Function Not Assigned,Definitive
+CYP2C9*65,E326D,E,326,D,—,Function Not Assigned,Definitive
+CYP2C9*66,L362V,L,362,V,rs578144976,Function Not Assigned,Definitive
+CYP2C9*67,R433W,R,433,W,rs776908257,Function Not Assigned,Limited
+CYP2C9*69,D191G,D,191,G,rs2492587526,Function Not Assigned,Moderate
+CYP2C9*70,G442V,G,442,V,rs2492662839,Function Not Assigned,Moderate
+CYP2C9*72,A149V,A,149,V,rs1289704600,Unknown Function,Definitive
+CYP2C9*73,R150C,R,150,C,rs17847037,Unknown Function,Definitive
+CYP2C9*74,Q214H,Q,214,H,rs370100007,Unknown Function,Definitive
+CYP2C9*75,N418T,N,418,T,rs1254213342,Unknown Function,Definitive
+CYP2C9*76,G40R,G,40,R,rs1364419386,Function Not Assigned,Definitive
+CYP2C9*77,G96R,G,96,R,rs2493006942,Function Not Assigned,Definitive
+CYP2C9*78,L128R,L,128,R,rs1375956433,Function Not Assigned,Definitive
+CYP2C9*79,P346L,P,346,L,rs1297714792,Function Not Assigned,Moderate
+CYP2C9*80,C13G,C,13,G,—,Function Not Assigned,Definitive
+CYP2C9*81,E300V,E,300,V,—,Function Not Assigned,Definitive
+CYP2C9*82,P227L,P,227,L,rs772782449,Function Not Assigned,Definitive
+CYP2C9*83,L36F,L,36,F,—,Function Not Assigned,Definitive
+CYP2C9*84,G431R,G,431,R,rs1441296358,Function Not Assigned,Definitive
+CYP2C9*86,M240T,M,240,T,rs369745682,Function Not Assigned,Definitive
+CYP2C9*87,T304P,T,304,P,rs546318684,Function Not Assigned,Definitive
+CYP2C9*88,S127F,S,127,F,rs530507053,Function Not Assigned,Definitive
